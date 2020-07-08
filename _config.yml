@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Romito Photography
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Romito Photography"
+url: "https://golfnllama.github.io"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
