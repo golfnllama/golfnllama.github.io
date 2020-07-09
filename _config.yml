@@ -29,8 +29,8 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://golfnllama.github.io/gallery/"  
-  - JOURNAL: "https://golfnllama.github.io/journal/"
-  - ABOUT: "https://golfnllama.github.io/about/"
+#  - JOURNAL: "https://golfnllama.github.io/journal/"
+#  - ABOUT: "https://golfnllama.github.io/about/"
 
 # All translation keys
 translations:
