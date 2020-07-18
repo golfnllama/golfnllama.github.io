@@ -17,7 +17,7 @@ body.fullscreen ul.social-icons, body.fullscreen  #footer p { vertical-align: bo
 body.fullscreen ul.social-icons li a  { color: white; }
 
 body.fullscreen .position-absolute { color: #dddddd;  bottom: 0; left: 0; width: 100%; padding: 0 4.5%; /*-webkit-transform: translateY(-50%);
--moz-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%);*/ -webkit-transition: -webkit-transform 1s; transition: transform 1s; }
+-moz-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%);*/ -webkit-transition: -webkit-transform 0.5s; transition: transform 0.5s; }
 
 /*galleries adapted*/
 	.masonry-gallery .gallery-item { width: 47.5% !important; }
