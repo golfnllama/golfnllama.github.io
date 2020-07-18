@@ -1,7 +1,7 @@
 /* WYSIWYG TEXT STYLES
 --------------------------------------------------------- */
-html { font-family: 'Josefin Sans', sans-serif; font-size: 75%; }
-body { font-family: 'Josefin Sans', sans-serif; font-size: 2.8em; font-weight: 400; }
+html { font-family: 'Josefin Sans', sans-serif; font-size: 64.5%; }
+body { font-family: 'Josefin Sans', sans-serif; font-size: 1.8em; font-weight: 400; }
 
 /* CONTENT */
 body #content { position: relative; }
@@ -20,10 +20,10 @@ body.fullscreen .position-absolute { color: #dddddd;  bottom: 0; left: 0; width:
 -moz-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%);*/ -webkit-transition: -webkit-transform 1s; transition: transform 1s; }
 
 /*galleries adapted*/
-	.masonry-gallery .gallery-item { width: 75% !important; }
+	.masonry-gallery .gallery-item { width: 47.5% !important; }
 	.fullscreen-gallery.kenburns-gallery canvas { position: relative; }
 	.fullscreen-gallery .gallery-caption .entry-summary { padding-bottom: 1.5em; }
-	.vertical-gallery.gallery { height: 200px; margin-top: 2em; }
+	.vertical-gallery.gallery { height: 400px; margin-top: 2em; }
 	.vertical-gallery .gallery-icon { width: 90%; }
 	.vertical-gallery .gallery-caption { width: 90%; position: absolute; bottom: 0; }
 	.vertical-gallery .gallery-icon img { bottom: auto; top: 0; }
@@ -31,7 +31,7 @@ body.fullscreen .position-absolute { color: #dddddd;  bottom: 0; left: 0; width:
 
 
 h1 { font-weight: normal; font-size: 1.7em; margin: 0 0 .5em 0; line-height: 1.4; }
-h2 { font-weight: normal; font-size: 1.5em; margin: 0 0 .7em 0; line-height: 1.2; letter-spacing: .01em;  }
+h2 { font-weight: normal; font-size: 3.5em; margin: 0 0 .7em 0; line-height: 1.2; letter-spacing: .01em;  }
 h3 { font-weight: normal; font-size: 1.25em; margin: 0 0 .5em 0; line-height: 1.4; }
 h4 { font-weight: normal; font-size: 1.15em; margin: 0 0 .5em 0; line-height: 1.4; }
 h5 { font-weight: bold; font-size: 1em; margin: 0 0 .5em 0; line-height: 1.4; }
@@ -89,7 +89,7 @@ img.alignleft { margin: 5px 20px 20px 0; }
 img.alignright { margin: 5px 0 20px 20px; }
 p.alignleft, div.alignleft { margin-right: 20px; }
 p.alignright, div.alignright { margin-left: 20px; }
-img.alignnone.size-full { max-width: 110% !important; width: 110%; margin-left: -1.2em; }
+img.alignnone.size-full { max-width: 75% !important; width: 75%; margin-left: -1.2em; }
 
 table { width: 100%; margin: 0 0 25px 0; border-collapse: collapse; border: 1px solid rgba(0,0,0,0.15); clear: both; }
 table th { background: rgba(0,0,0,.05); text-align: center; padding: 15px; font-size: 1.1em; }
