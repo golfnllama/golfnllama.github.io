@@ -31,7 +31,7 @@ body.fullscreen .position-absolute { color: #dddddd;  bottom: 0; left: 0; width:
 
 
 h1 { font-weight: normal; font-size: 1.7em; margin: 0 0 .5em 0; line-height: 1.4; }
-h2 { font-weight: normal; font-size: 3.5em; margin: 0 0 .7em 0; line-height: 1.2; letter-spacing: .01em;  }
+h2 { font-weight: normal; font-size: 6.5em; margin: 0 0 .7em 0; line-height: 1.2; letter-spacing: .01em;  }
 h3 { font-weight: normal; font-size: 1.25em; margin: 0 0 .5em 0; line-height: 1.4; }
 h4 { font-weight: normal; font-size: 1.15em; margin: 0 0 .5em 0; line-height: 1.4; }
 h5 { font-weight: bold; font-size: 1em; margin: 0 0 .5em 0; line-height: 1.4; }
@@ -42,7 +42,7 @@ ol { list-style: decimal; }
 strong, input, button, .button { font-weight: bold; }
 nav ul { list-style: none; }
 em { font-style: italic; } 
-a { color: #EA8E00; text-decoration: none; 
+a { color: #2C3539; text-decoration: none; 
 -webkit-transition: all .2s ease; -moz-transition: all .2s ease; -ms-transition: all .2s ease; -o-transition: all .2s ease; transition: all .2s ease; }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { text-decoration: none; }
 a:hover { text-decoration: none; color: #222;  } 
@@ -65,7 +65,7 @@ h2.big { font-size: 240%; letter-spacing: .1em; }
 .small, small { font-size: .85em; line-height: 1.5; }
 .extrasmall { font-size: .6em; }
 h6 .small, h6 .big, .small h6, .big h6 { line-height: 1; }
-.big i { font-size: 1.4em; font-weight: normal;  }
+.big i { font-size: 3.4em; font-weight: normal;  }
 .extrabig i { font-size: 1.6em; font-weight: normal; }
 .serif { font-family: Times, serif; opacity: .8; font-size: 94%; }
 .smaller-width { width: 70%; }
@@ -89,7 +89,7 @@ img.alignleft { margin: 5px 20px 20px 0; }
 img.alignright { margin: 5px 0 20px 20px; }
 p.alignleft, div.alignleft { margin-right: 20px; }
 p.alignright, div.alignright { margin-left: 20px; }
-img.alignnone.size-full { max-width: 75% !important; width: 75%; margin-left: -1.2em; }
+img.alignnone.size-full { max-width: 110% !important; width: 110%; margin-left: -1.2em; }
 
 table { width: 100%; margin: 0 0 25px 0; border-collapse: collapse; border: 1px solid rgba(0,0,0,0.15); clear: both; }
 table th { background: rgba(0,0,0,.05); text-align: center; padding: 15px; font-size: 1.1em; }
