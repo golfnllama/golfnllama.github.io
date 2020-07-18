@@ -20,7 +20,7 @@ body.fullscreen .position-absolute { color: #dddddd;  bottom: 0; left: 0; width:
 -moz-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%);*/ -webkit-transition: -webkit-transform 1s; transition: transform 1s; }
 
 /*galleries adapted*/
-	.masonry-gallery .gallery-item { width: 47.5% !important; }
+	.masonry-gallery .gallery-item { width: 30% !important; }
 	.fullscreen-gallery.kenburns-gallery canvas { position: relative; }
 	.fullscreen-gallery .gallery-caption .entry-summary { padding-bottom: 1.5em; }
 	.vertical-gallery.gallery { height: 400px; margin-top: 2em; }
