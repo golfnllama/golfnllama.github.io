@@ -4,7 +4,7 @@ title: "White Mountains Presidential Traverse"
 subtitle: ""
 active: "journal"
 image:
-  feature: "30.jpg"
+  feature: "img/presidential-traverse/30.jpg"
 date: "2018-09-01"
 header-img: "img/presidential-traverse/13.jpg"
 comments: false
