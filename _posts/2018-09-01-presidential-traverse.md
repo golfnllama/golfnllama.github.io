@@ -14,7 +14,7 @@ The Presidential Range is located in New Hampshire’s White Mountains. Known fo
 After returning from the Smoky Mountains, I had mountains on my mind. The mountains were definitely calling my name. Hearing about the Presidential Range in New Hampshire’s White Mountains from a friend who recently tackled the trek, inspired me and sounded like the perfect way to satsiate my mountain fever. My friend described how the AMC huts along the ridgeline were super convenient and allowed one to trek without the need for much food or a tent. The huts (basically hostels) offer breakfast, dinner and a bunk right off of the trail at three different locations. Grateful for the tip, I became an AMC member to get the discounted hut rate and booked two along my route. Be sure to book early as the huts are very popular (I made reservations two months in advance).
 
 <p align="center">
-  <img width="500" src="/img/presidential-traverse/presidential-traverse/1.jpg"><br>
+  <img width="500" src="/img/presidential-traverse/1.jpg"><br>
   <i>Trekking from hut to hut (with amazing food service) makes for a much lighter pack!</i>
 </p>
 
