@@ -5,7 +5,7 @@ subtitle: "September 2018"
 active: "journal"
 image:
   feature: "img/presidential-traverse/30.jpg"
-date: "2018-09-01"
+date: "2020-07-19"
 header-img: "img/presidential-traverse/13.jpg"
 comments: false
 ---
