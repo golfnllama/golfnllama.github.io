@@ -29,8 +29,8 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://www.romitophotography.com/gallery/"  
-#  - JOURNAL: "https://www.romitophotography.com/journal/"
-#  - ABOUT: "https://www.romitophotography.com/about/"
+  - JOURNAL: "https://www.romitophotography.com/journal/"
+  - ABOUT: "https://www.romitophotography.com/about/"
 
 # All translation keys
 translations:
