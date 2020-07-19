@@ -3,7 +3,7 @@ title: Romito Photography
 email: ""
 description: "Romito Photography"
 url: "https://www.romitophotography.com/gallery/"
-baseurl: "/gallery/"
+baseurl: "/"
 facebook_username: "ROMIPHOTO"
 instagram_username: "romitoe"
 share: true
