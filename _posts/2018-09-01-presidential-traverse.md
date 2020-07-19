@@ -4,9 +4,9 @@ title: "White Mountains Presidential Traverse"
 subtitle: ""
 active: "journal"
 image:
-  feature: "/img/presidential-traverse/9.jpg"
+  feature: "img/presidential-traverse/9.jpg"
 date: "2018-09-01"
-header-img: "/img/presidential-traverse/9.jpg"
+header-img: "img/presidential-traverse/9.jpg"
 comments: "false"
 ---
 The Presidential Range is located in New Hampshire’s White Mountains. Known for its harsh weather and challenging conditions, the trek consists of a 20 mile hike across the exposed ridgeline with summits of Mt. Madison, Adams, Jefferson, Washington, Monroe, Eisenhower, and Pierce. My 2018 summer went out with a bang by tackling the iconic route hiking south along the ridge, making friends, experiencing AMC hut hopping, taking in the views of this beautiful section of the east, and living one of my most memorial hiking experiences.
@@ -21,7 +21,7 @@ After returning from the Smoky Mountains, I had mountains on my mind. The mounta
 I started my jounrey at the AMC Highland Lodge where I had arranged shuttle transport to the trailhead. My planned route would begin at the Appalachia Trailhead and hike south starting at Mount Madison and ending at Mount Eisenhower. I would be staying at Madison Spring hut the first night and Mizpuh hut the second night. My third and final night would put me back at Highland Lodge, completing a makeshift loop.
 
 <p align="center">
-  <img width="500" src="/../img/presidential-traverse/presidential-traverse/2.jpg"><br>
+  <img width="500" src="/../img/presidential-traverse/2.jpg"><br>
   <i>AMC’s Highland Lodge. No bad views here.</i>
 </p>
 
@@ -30,17 +30,17 @@ My excitement was through the roof as more and more backpackers joined the shutt
 With a quick wave to the shuttle driver, I was off to tackle what has been described as a killer ascent to the base of Mount Madison. It would be about a 4 mile hike with constant elevation gain totaling a little over 3,000 feet. I had plenty of time as Madison Spring hut sat at the base and marked my final destination for the day. Let the climbing begin…..
 
 <p align="center">
-  <img width="500" src="/../img/presidential-traverse/presidential-traverse/3.jpg"><br>
+  <img width="500" src="/../img/presidential-traverse/3.jpg"><br>
   <i>Encouraging words as I begin my ascent…</i>
 </p>
 
 <p align="center">
-  <img width="500" src="/../img/presidential-traverse/presidential-traverse/4.jpg"><br>
+  <img width="500" src="/../img/presidential-traverse/4.jpg"><br>
   <i>There’s a trail there somewhere. Onwards and upwards!</i>
 </p>
 
 <p align="center">
-  <img width="500" src="/../img/presidential-traverse/presidential-traverse/5.jpg"><br>
+  <img width="500" src="/../img/presidential-traverse/5.jpg"><br>
   <i>Starting to get above the treeline</i>
 </p>
 
