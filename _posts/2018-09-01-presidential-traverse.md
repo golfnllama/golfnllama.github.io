@@ -1,7 +1,13 @@
 ---
-layout: page
-category: Hiking
-title:  "White Mountains Presidential Traverse"
+layout: "post"
+title: "White Mountains Presidential Traverse"
+subtitle: ""
+active: "journal"
+image:
+  feature: "img/presidential-traverse/9.jpg"
+date: "2018-09-01"
+header-img: "img/presidential-traverse/9.jpg"
+comments: "false"
 ---
 The Presidential Range is located in New Hampshire’s White Mountains. Known for its harsh weather and challenging conditions, the trek consists of a 20 mile hike across the exposed ridgeline with summits of Mt. Madison, Adams, Jefferson, Washington, Monroe, Eisenhower, and Pierce. My 2018 summer went out with a bang by tackling the iconic route hiking south along the ridge, making friends, experiencing AMC hut hopping, taking in the views of this beautiful section of the east, and living one of my most memorial hiking experiences.
 
