@@ -4,9 +4,9 @@ title: "Dive Belize"
 subtitle: "March 2019"
 active: "journal"
 image:
-  feature: "img/dive-belize/30.jpg"
+  feature: "img/dive-belize/20.jpg"
 date: "2020-07-20"
-header-img: "img/dive-belize/13.jpg"
+header-img: "img/dive-belize/18.jpg"
 comments: false
 ---
 Seven friends from the east coast travel to the remote island of Long Caye on Lighthouse Reef Atoll 40 miles off the coast of Belize for a week long scuba diving and snorkeling adventure. Staying at Itza Resort, we had the remote island to ourselves and learned of the local island culture, conservation efforts and incredible dive sites throughout the atoll, including The Great Blue Hole, The Aquarium and numerous unmarked sites known only to the knowledgeable locals at Itza. Under the masterful eye of Elvis and Wendy and our chef Gilroy keeping us fueled for our journeys, we had the trip of a lifetime.
@@ -252,7 +252,7 @@ I joined breakfast a bit late this morning. Elvis and Wendy joined us at the tab
 
 Going with the wind, it was a much smoother ride back. Well, at least until the engine started making some funny noises as we puttered into the mangroves of Turneffe Atoll. The mangroves provided a little shelter from the current as our captain opened the engine and took a look. We thought all was well when the engine went back in the water, but the noise had gotten worse. The captain said we were going to travel around the small island beside us a bit to his family’s fishing hut. This is where I started thinking about all those pirate movies I’d seen and that we might not be making our flight home (not that this was the worst thing that could happen). It seemed a little too perfect that the engine started cutting out right around one of the only spots on this atoll where there was a sign of civilization. We pulled up to the leaning dock in front of a fishing shack and the engine was once again out of the water. Our group hopped off of the boat and carefully walked across the dock skipping a board or two that looked to be a bit rotted. The fishing shack was small, but it gave us all a great idea of how local fishers live and operate.
 
-p align="center">
+<p align="center">
   <img width="500" src="/img/dive-belize/33.jpg"><br>
   <i>Engine trouble made us hopeful that we may be stranded in paradise.</i>
 </p>
