@@ -11,7 +11,7 @@ comments: false
 ---
 Seven friends from the east coast travel to the remote island of Long Caye on Lighthouse Reef Atoll 40 miles off the coast of Belize for a week long scuba diving and snorkeling adventure. Staying at Itza Resort, we had the remote island to ourselves and learned of the local island culture, conservation efforts and incredible dive sites throughout the atoll, including The Great Blue Hole, The Aquarium and numerous unmarked sites known only to the knowledgeable locals at Itza. Under the masterful eye of Elvis and Wendy and our chef Gilroy keeping us fueled for our journeys, we had the trip of a lifetime.
 
-Note: GoPro video compilation is available on YouTube at the end of this article. Enjoy and thanks for reading!
+<a href="https://www.youtube.com/watch?v=fm-pNzu4Wps">Click here for a GoPro video compilation from the trip.</a> Enjoy and thanks for reading!
 
 Day 1 – Travel
 
@@ -260,6 +260,3 @@ Going with the wind, it was a much smoother ride back. Well, at least until the 
 After about 10 minutes, a quiet plunk of an engine piece falling into the water (whoops), and a quick rev of the engine, we were back on the water, unfortunately putting more space between us and Itza. With plenty of time to spare, we arrived at the Belize airport after another bumpy, stop and go taxi ride through the island towns. Our flight was delayed for two hours, so we all sat uncomfortably in the packed airport watching the excitement of new arrivals and the somber faces of those leaving. Of course there was a Belkin (main beer in Belize) bar so we all enjoyed one last fresh glass before walking out to our plane and waving goodbye to the sweet, humid, tropical air.
 
 Four hours later, we were back to reality. It’s amazing how a trip of a lifetime can be over just like that, leaving plenty of memories that will last forever and new comradery sharing some rough patches and triumphs of new adventures together. We had truly experienced a remote island experience and met some incredible people along the way. Belize will hold a special place in my heart and we all hope to get back there again soon.
-
-
-<a href="https://www.youtube.com/watch?v=fm-pNzu4Wps">YouTube Video from this trip</a>
