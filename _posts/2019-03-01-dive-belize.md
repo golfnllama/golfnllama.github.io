@@ -260,3 +260,6 @@ Going with the wind, it was a much smoother ride back. Well, at least until the 
 After about 10 minutes, a quiet plunk of an engine piece falling into the water (whoops), and a quick rev of the engine, we were back on the water, unfortunately putting more space between us and Itza. With plenty of time to spare, we arrived at the Belize airport after another bumpy, stop and go taxi ride through the island towns. Our flight was delayed for two hours, so we all sat uncomfortably in the packed airport watching the excitement of new arrivals and the somber faces of those leaving. Of course there was a Belkin (main beer in Belize) bar so we all enjoyed one last fresh glass before walking out to our plane and waving goodbye to the sweet, humid, tropical air.
 
 Four hours later, we were back to reality. It’s amazing how a trip of a lifetime can be over just like that, leaving plenty of memories that will last forever and new comradery sharing some rough patches and triumphs of new adventures together. We had truly experienced a remote island experience and met some incredible people along the way. Belize will hold a special place in my heart and we all hope to get back there again soon.
+
+
+<a href="https://www.youtube.com/watch?v=fm-pNzu4Wps">YouTube Video from this trip</a>
