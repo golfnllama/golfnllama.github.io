@@ -1,7 +1,13 @@
 ---
-layout: page
-category: Scuba
-title:  "Dive Belize"
+layout: "post"
+title: "Dive Belize"
+subtitle: "March 2019"
+active: "journal"
+image:
+  feature: "img/dive-belize/30.jpg"
+date: "2020-07-20"
+header-img: "img/dive-belize/13.jpg"
+comments: false
 ---
 Seven friends from the east coast travel to the remote island of Long Caye on Lighthouse Reef Atoll 40 miles off the coast of Belize for a week long scuba diving and snorkeling adventure. Staying at Itza Resort, we had the remote island to ourselves and learned of the local island culture, conservation efforts and incredible dive sites throughout the atoll, including The Great Blue Hole, The Aquarium and numerous unmarked sites known only to the knowledgeable locals at Itza. Under the masterful eye of Elvis and Wendy and our chef Gilroy keeping us fueled for our journeys, we had the trip of a lifetime.
 
