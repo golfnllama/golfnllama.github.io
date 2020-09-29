@@ -5,7 +5,7 @@ subtitle: "September 2020"
 active: "journal"
 image:
   feature: "img/rainier-climb/20.jpg"
-date: "2020-07-20"
+date: "2020-09-29"
 header-img: "img/rainier-climb/18.jpg"
 comments: false
 ---
