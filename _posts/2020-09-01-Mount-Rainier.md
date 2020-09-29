@@ -32,7 +32,6 @@ After a quick hotel stay in uptown Seattle and fighting to avoid jet lag, I met 
 
 Everyone drove individually from Seattle to Mount Rainier National Park (about a 2 hour drive southwest). I had booked an AirBnB for Friday evening so I didn't have to get up super early Saturday morning to make the drive. I was able to properly pack (everything fit!) and mentally prepare for the jounrey I'd been awaiting for over year. A quick check of the summit weather forecast showed high winds for our summit day, so I started to prepare mentally for both a challenge and the potential that summiting may not be an option. Of course I was hopeful that we would be able to summit, but preparing for disappointment early could help make a life saving decision easier when you're in the heat of moment. 
 
-</p>
 <p align="center">
   <img width="500" src="/img/rainier-climb/4.jpg"><br>
   <i>The final result of my backpack after some last finishing touches.</i>
@@ -40,7 +39,6 @@ Everyone drove individually from Seattle to Mount Rainier National Park (about a
 
 We hit the trail at 9am Saturday morning after brief introductions and final packing optimization tweaks in the lower Paradise parking lot (the overnight lot). It was a gorgeous hike along the popular paved trails of Skyline enroute to Pebble Creek and ultimately the Muir Snowfield. There were some severe forest fires in Oregon and California prior to and during our trek and the winds brought the smoke over northwest Washington. Visibility was limited, my eyes stung a bit, and breathing was sometimes difficult, but the subalpine meadows and hazy outline of Mount Rainier kept me focused and inspired to push on. 
 
-</p>
 <p align="center">
   <img width="500" src="/img/rainier-climb/5.jpg"><br>
   <i>There's a mountain in the background somewhere....</i>
@@ -48,11 +46,9 @@ We hit the trail at 9am Saturday morning after brief introductions and final pac
 
 The rule of thumb was that our team climbed 1,000 feet non-stop (about 1 hour) before we took a 5 - 10 minute break to eat, drink and do whatever else was needed. Dropping our packs and sitting on them became a welcomed norm throughout the climb. I learned how to optimize my time on these breaks to ensure I was eating and drinking enough to fuel my body as we climbed higher (about 200 calories and 1/2 liter of water per break was my average). 
 
-</p>
 <p align="center">
   <img width="500" src="/img/rainier-climb/6.jpg"><br>
   <i>Our early breaks allowed us some time to get to know one another.</i>
-</p>
 </p>
 
 After about two hours, we hit the beginning of Muir Snowfield, an iconic 2.2 mile strip of snow (actually more of a glacier itself but still refered to as a "snow field") that climbs about 3,000 feet to Camp Muir, our final destination for day 1. We donned our mountaineering boots for better traction and started our first snow/ice section of our route. It was still pretty sunny (and hazy because of the smoke) and about 60 degrees at this point, so I was just in a sun hoodie and my softshell pants still. 
