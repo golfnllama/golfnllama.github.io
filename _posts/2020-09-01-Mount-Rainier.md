@@ -115,7 +115,7 @@ Again, we rested the entire afternoon in our tents upon arriving to camp at 11,1
 
 <p align="center">
   <img width="500" src="/img/rainier-climb/18.jpg"><br>
-  <i>Lakpa giving us summit day briefing.</i>
+  <i>Lakpa giving us the summit day briefing.</i>
 </p>
 
 Later that night, I heard the guides talking about how the wind forecast had increased. At this point, I was fully prepared to not make it to the summit. I was going to give it my all, but respect my limits and what the mountain allowed me to do. Going to bed, I was calm, relaxed and frankly content with everything that had happened thus far and what might be in store as we climbed higher.
