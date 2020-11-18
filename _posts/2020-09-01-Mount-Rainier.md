@@ -108,7 +108,7 @@ Around 12pm, we set off across Cowlitz Glacier and through Cathedral Gap, climbi
 </p>
 <p align="center">
   <img width="500" src="/img/rainier-climb/17.jpg"><br>
-  <i>A little glimpse of high camp with Disappointment Cleaver on the left and Gibraltar Rock.</i>
+  <i>A little glimpse of high camp with Disappointment Cleaver on the right and Gibraltar Rock on the left.</i>
 </p>
 
 Again, we rested the entire afternoon in our tents upon arriving to camp at 11,100 feet before dinner and our final briefing for our summit attempt. The guides were very real with us this night. They explained that making it to the summit is not a guarantee and that there are a number of reasons why continuing on may not be possible. Part of mountaineering is adapting to what the mountain throws at you, and sometimes that means making a decision to turn around to ensure you can safely make it off the mountain. Reaching the summit is optional, but getting down safely is mandatory. We were reminded to pace ourselves to ensure we had "enough gas in the tank" to make the descent to the parking lot safely and to be honest with our guides about how we were feeling. Overall this conversation set a much needed serious tone as we all prepared for the uncertainties of the upper mountain. 
