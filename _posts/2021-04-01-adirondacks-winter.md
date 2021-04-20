@@ -4,9 +4,9 @@ title: "Winter hiking in the Adirondacks"
 subtitle: "April 2021"
 active: "journal"
 image:
-  feature: "img/adks-winter/0011.jpg"
+  feature: "img/adks-winter/0017.jpg"
 date: "2021-04-03"
-header-img: "img/adks-winter/0007.jpg"
+header-img: "img/adks-winter/0010.jpg"
 comments: false
 ---
 
@@ -50,7 +50,7 @@ I had to take a rest day in order to let my feet rest and heal after taking a be
 </p>
 <p align="center">
   <img width="500" src="/img/adks-winter/0009.jpg"><br>
-  <i>Putting up the feet and enjoying some warmth after they took a beating breaking in the new boots.</i>
+  <i>Putting up the feet after they took a beating breaking in the new boots and enjoying some warmth.</i>
 </p>
 
 Continuous base and summit weather report check-ins using mountain-forecast.com and reading trail condition reviews on AllTrails revealed that there was a nice weather window opening during the weekend. The winter storm had passed and blue skies, well packed trails, and low wind were being forecasted. This was it. I patched my feet and was in the car at 6am ready to tackle the 15 mile, 4,000 vertical foot route up and down Mount Marcy. Snowshoes are a requirement in this area during the snow season and for a good reason. With snow depths still two to three feet off the main packed, trail it's very easy to "post hole", finding yourself thigh deep in snow and leaving a dangerous hole for others to maneuver around, so I was happy to don my snowshoes and hike in them for the majority of the day, only switching to crampons near the cap of the summit. 
